@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1556559049 source:d:\tubes std\apotek\main.cpp
+	"aplikasimenu.h"
+	<iostream>
+
+1556569021 source:d:\tubes std\apotek\obat.cpp
+	"obat.h"
+
+1556568998 d:\tubes std\apotek\obat.h
+	<iostream>
+
+1556569030 source:d:\tubes std\apotek\penyakit.cpp
+	"penyakit.h"
+
+1556569008 d:\tubes std\apotek\penyakit.h
+	<iostream>
+
+1556568930 source:d:\tubes std\apotek\relasi.cpp
+	"relasi.h"
+
+1556568931 d:\tubes std\apotek\relasi.h
+	<iostream>
+	"penyakit.h"
+	"obat.h"
+
+1556565737 source:d:\tubes std\apotek\aplikasimenu.cpp
+	"aplikasimenu.h"
+
+1556572601 d:\tubes std\apotek\aplikasimenu.h
+	<cstdlib>
+	<stdlib.h>
+	<conio.h>
+	<string>
+	"penyakit.h"
+	"obat.h"
+	"relasi.h"
+
